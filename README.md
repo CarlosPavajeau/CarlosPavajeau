@@ -4,6 +4,8 @@
 - I'm currently learning mobile development.
 - I like to automate compiling and testing the code.
 
+---
+
 ### :octocat: Github Stats
 <a href="https://github.com/cantte">
   <img alt="Cantte's GitHub Stats" height="200em" src="https://github-readme-stats.vercel.app/api?username=cantte&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark" />
