@@ -3,7 +3,7 @@
 <h2>I'm Carlos Andrés Pavajeau Max (cantte)</h2>
 
 <h3> 💻 &nbsp;About me </h3>
-I am a systems engineering student. Web and desktop application developer. With knowledge in various languages and technologies. Frontent and backend developer. Constantly learning and writing code.
+Programmer with knowledge in application development and deployment. I like to write elegant and efficient code following different design patterns and architecture. I am characterized by being responsible, tidy and always eager to learn new things.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
